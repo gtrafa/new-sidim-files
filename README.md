@@ -1,11 +1,12 @@
 # New SIDIM control System
 The goal of this project is to stablish the basis for the new control system for the plants made in the LACSED.
+It is designe for the plant SIDIM, in portuguese Sistema Distribuido de Manufatura.
 
-This system is underdevelopment ...
+This system is under development ...
 
 ## The Plant TCS Control
 
-This folder contains the basic functionality for the system. And the development progresses it should be updated
+This folder contains the basic functionality for the system. And the development progresses it should be updated.
 The code here was designed considering the use of an Arduino DUE. 
 
 
@@ -13,4 +14,4 @@ The code here was designed considering the use of an Arduino DUE.
 
 This folder has the initial code for controlling the Plant through the buttons on the IHM. It also provide some informations regarding the system status in the LCD. 
 
-The code here is designed for an Arduino Nano
+The code here is designed for an Arduino Nano.
