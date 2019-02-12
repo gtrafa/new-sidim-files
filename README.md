@@ -1,6 +1,6 @@
 # New SIDIM control System
 The goal of this project is to stablish the basis for the new control system for the plants made in the LACSED.
-It is designe for the plant SIDIM, in portuguese Sistema Distribuido de Manufatura.
+All the industrial system created use the The supervisory control system (SCT) as a controller. For the plant SIDIM, in portuguese Sistema Distribuido de Manufatura.
 
 This system is under development ...
 
